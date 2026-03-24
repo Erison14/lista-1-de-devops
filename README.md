@@ -1,1 +1,3 @@
-# lista-1-de-devops
+# lista-1-de-devops 
+
+Esta separado em cada item da atividade, item "A", "B" ...
